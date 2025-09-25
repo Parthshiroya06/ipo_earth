@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998934558407",
+    "project_id": "ipo-earth",
+    "storage_bucket": "ipo-earth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998934558407:android:8bb0b0a23cbeb9d12770e2",
+        "android_client_info": {
+          "package_name": "com.ipoearth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgAa2CUzVhinjemZR5OOiUmAH8jOTkFMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
